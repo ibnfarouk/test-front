@@ -2,68 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56a8c790-faca-48b0-a7a7-ef4421f33b47" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/ipda3.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/3dl.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/MICROsoft.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/Slider-four.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/Slider-two.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/articles.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/bg30-Ar1web.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/blood-bank.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/cashier.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/design-one.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/details-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/dokan.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/ektshfny.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/elnesr-mockup.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/elnesr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/engz.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/footer-logo2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/footer-logo3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/footer-vec.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/footer.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/gelato.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/header-side.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/header.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/kanaria-preview.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/kanaria.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/logo2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/main.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/mansor.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/msrofy.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/one app.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/one-preview.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/one.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/our-client-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/our-work.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/project-preview-header.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/rawaqq.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/salh.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/server.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/slide-one.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/slider-three.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/smart.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/smart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/smartphone.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/social-markting.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/sushi.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/toready.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/training.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/we-offer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/web.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/who-are-we.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/wow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,10 +32,10 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="174">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding>
-                <element signature="e#286#530#2" expanded="true" />
+                <element signature="e#281#525#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -205,15 +144,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596457360248</updated>
-      <workItem from="1596457361895" duration="2763000" />
+      <workItem from="1596457361895" duration="2827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2763000" />
+    <option name="totallyTimeSpent" value="2827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="734" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20274636" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -223,7 +163,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3117932" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3117932" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -261,10 +201,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="174">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding>
-            <element signature="e#286#530#2" expanded="true" />
+            <element signature="e#281#525#2" expanded="true" />
           </folding>
         </state>
       </provider>
