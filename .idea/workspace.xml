@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56a8c790-faca-48b0-a7a7-ef4421f33b47" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/ipda3.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/3dl.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/MICROsoft.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/Slider-four.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/Slider-two.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/articles.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/bg30-Ar1web.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/blood-bank.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/cashier.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/design-one.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/details-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/dokan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/ektshfny.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/elnesr-mockup.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/elnesr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/engz.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/footer-logo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/footer-logo3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/footer-vec.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/footer.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/gelato.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/header-side.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/header.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/kanaria-preview.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/kanaria.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/logo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/main.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/mansor.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/msrofy.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/one app.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/one-preview.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/one.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/our-client-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/our-work.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/project-preview-header.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/rawaqq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/salh.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/server.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/slide-one.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/slider-three.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/smart.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/smart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/smartphone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/social-markting.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/sushi.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/toready.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/training.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/we-offer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/web.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/who-are-we.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/wow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-937">
+              <caret line="6" column="107" lean-forward="false" selection-start-line="6" selection-start-column="107" selection-end-line="6" selection-end-column="107" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#286#530#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ipda3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ipda3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ipda3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ipda3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ipda3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ipda3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/disgn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56a8c790-faca-48b0-a7a7-ef4421f33b47" name="Default" comment="" />
+      <created>1596457360248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596457360248</updated>
+      <workItem from="1596457361895" duration="2763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2763000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="734" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20274636" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3117932" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32471728" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-937">
+          <caret line="6" column="107" lean-forward="false" selection-start-line="6" selection-start-column="107" selection-end-line="6" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#286#530#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
